@@ -1,0 +1,38 @@
+Curso de Java
+
+- Video 004: Escribir en consola.
+- Video 006: Declaracion de variables.
+- Video 007: Constantes y operaciones.
+- Video 009: Clase Math, raiz cuadrada sqrt.
+- Video 010: Clase Math.
+    - round:	Redondear un numero.
+    - pow: 	Numero elevado a un exponente.
+- Video 011: Clase String.
+    - length: Longitud de la cadena.
+    - charAt: Caracter de una cadena.
+- Video 012: Clase String.
+    - substring: Obtener una subcadena.
+    - equals: Comaparar dos cadenas de texto.
+    - equalsIgnoreCase: Comaparar dos cadenas de texto ignorando mayusculas.
+- Video 014: Uso de la clase Scanner para recoger datos de teclado.
+- Video 015: Lectura de datos de teclado con JOptionPane.
+- Video 016: Condiciones con if, else.
+- Video 017: Condiciones con switch.
+- Video 018: Bucle while.
+- Video 019: Bucle while y random de la clase Math.
+- Video 020: Bucle do while.
+- Video 021: Bucle for.
+- Video 022: Bucle for.
+- Video 023: Uso de arrays.
+- Video 024: Uso de arrays.
+- Video 025: Uso de arrays bidimensionales.
+- Video 026: Uso de arrays bidimensionales.
+- Video 028-032: Creando una clase para instanciarla.
+- Video 033-035: Creando una clase para instanciarla, uso de la clase Date y GregorianCalendar.
+- Video 036-038: Creando una clase para instanciarla, uso de un metodo static en nuestro objeto.
+- Video 039: Mejora del ejercicio anterior.
+- Video 040-041: Creando dos clases, una hereda de la otra.
+- Video 042-044: Herencia, sobrecarga de constructores y sobreescritura de metodos de la clase padre.
+- Video 046: Creacion de una clase abstracta, las clases que heredan de esta tienen que sobreescribir los metodos abstractos.
+- Video 048: Tipos enumerados.
+- Video 049: Clases internas e interfaces, la diferencia con las clases abstractas, es que la interfaz tiene todos sus metodos abstractos y tambien sirve para "corregir" el problema de herencia multiple.
